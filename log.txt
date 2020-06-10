@@ -1,0 +1,75 @@
+[09/06/2020 23:07:06]*Imagen control: control.png    *Imagen Prueba: test-1.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / Uno / dos / tres / cuatro / cinco / seis / siete / ocho / nueve / diez / once / doce / trece / catorce / quince / dieciseis / diecisiete / dieciocho / diecinueve / veinte / veintiuno / veintidos / veintitres / veinticuatro / veinticinco / veintiseis / veintisiete / veintiocho / veintinueve / treinta / treintaiuno / treintaidos / treitaitres / treintaicuatro / treitaicincco / treintaiseis / treintaisiete / treitaiocho / treintinueve / cuarenta / cuarentaiuno / cuarentanos / cuarentaisiete / cuarentaisesis / cuarentaicinco / cuarentayseis / its / morning / but
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:07:18]*Imagen control: control.png    *Imagen Prueba: test-2.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / Uno / dos / 7 / ocho / nueve / 10 / 11 / 12 / 13 / 14 / 15 / diezysiete / diezyocho / diesinueve / veinte / 21 / 22 / vientucatri / 25 / 26 / 27 / 28 / 29 / treinta / treintaiuno / treintaydos / treinta3 / treuntacuatro / 35 / 36 / 37 / 38 / 39 / 40 / cuarentaydos / 43 / 44 / 45 / MonDaY / KEEP
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:07:26]*Imagen control: control.png    *Imagen Prueba: test-3.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / IT'S / MONDAY / but / keep
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:07:31]*Imagen control: control.png    *Imagen Prueba: test-4.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / Smiling / MONDAY / but / IT'S / keep
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:07:35]*Imagen control: control.png    *Imagen Prueba: test-5.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / keep / MONDAY / but / Smiling / IT'S
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:07:39]*Imagen control: control.png    *Imagen Prueba: test-6.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / OF / COURSE / MONDAY / AIN'T / MY / FRIDAY / FACE
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:07:43]*Imagen control: control.png    *Imagen Prueba: test-7.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / IT'S / MONDAY / but / keep
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:07:48]*Imagen control: control.png    *Imagen Prueba: test-8.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / MONDAY / IT'S / MONDAY / keep / but / keep / Smiling / IT'S
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:07:52]*Imagen control: control.png    *Imagen Prueba: test-9.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / IT'S / MONDAY / but / keep / Smiling
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:07:56]*Imagen control: control.png    *Imagen Prueba: test-10.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / 1234 / IT'S / MONDAY / but / keep / Smiling
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:08:00]*Imagen control: control.png    *Imagen Prueba: test-11.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / IT'S / $% / MONDAY / but / keep / Smiling
+--- >    Verificacion: Encontro texto
+-----------------------------
+[09/06/2020 23:08:04]*Imagen control: control.png    *Imagen Prueba: test-12.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba --> 
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:08:08]*Imagen control: control.png    *Imagen Prueba: test-13.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba --> 
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:08:12]*Imagen control: control.png    *Imagen Prueba: test-14.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / HAPPY / FRIDAY!! / Keep / Smiling / Its / a / HOLIDAY / MONDAY!!
+--- >    Verificacion: No encontro texto
+-----------------------------
+[09/06/2020 23:08:17]*Imagen control: control.png    *Imagen Prueba: test-15.png
+palabras en control --> palabras en Control -->  / IT'S / MONDAY / but / keep / Smiling
+palabras en Prueba -->  / Lorem / ipsum / dolor / sit / amet, / consectetur / adipiscing / elit. / Duis / convallis / eget / ipsum / vitae / commodo. / Morbi / suscipit / congue / id / venenatis / tortor / rutrum / ut. / Quisque / sollicitudin / lectus / ut / consectetur / ultrices. / Cras / faucibus / lacinia / nibh, / aliquet / ante / vehicula / eu. / Donec / convallis / mollis / felis, / at / euismod / dui / commodo / vitae. / Pellentesque / eu / sodales
+--- >    Verificacion: No encontro texto
+-----------------------------
